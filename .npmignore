@@ -1,0 +1,14 @@
+# Source
+src/
+demo/
+.github/
+
+# Config
+tsconfig.json
+tsdown.config.ts
+.gitignore
+
+# Dev files
+*.test.ts
+*.test.tsx
+coverage/

@@ -53,7 +53,6 @@ function App() {
 
       {/* Header */}
       <header className="header">
-        <div className="header__badge">Canvas2D</div>
         <h1 className="header__title">
           <span className="header__title-ghost">Ghost</span>Text
         </h1>

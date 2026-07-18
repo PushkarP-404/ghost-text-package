@@ -106,20 +106,6 @@ body {
   animation: fadeInUp 600ms ease-out;
 }
 
-.header__badge {
-  display: inline-block;
-  padding: 4px 14px;
-  font-size: 0.7rem;
-  font-weight: 600;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--color-accent);
-  background: var(--color-accent-glow);
-  border: 1px solid rgba(167, 139, 250, 0.2);
-  border-radius: 100px;
-  margin-bottom: 20px;
-}
-
 .header__title {
   font-size: 3rem;
   font-weight: 700;

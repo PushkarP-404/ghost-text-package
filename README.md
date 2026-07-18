@@ -1,5 +1,9 @@
 # @pushkar/ghost-text
 
+
+The original idea and desing is by Eric Lu, founder of AI typography platform Mixfont
+I have made an open-source tool which devs can use for thier project
+
 **Animated dot-field text rendering for the web.** Text decomposed into opposing-direction scrolling particle fields that create a spectral "ghost font" illusion on Canvas2D.
 
 > ⚠️ **This is not a font.** Ghost Text is a per-frame animated Canvas2D illusion. It needs a render loop, can't be indexed by search engines, won't work with SSR, and intentionally breaks if paused on a single frame.

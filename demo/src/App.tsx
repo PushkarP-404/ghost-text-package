@@ -57,8 +57,10 @@ function App() {
           <span className="header__title-ghost">Ghost</span>Text
         </h1>
         <p className="header__subtitle">
+          The text only visible to HUMANS!
+          No AI
           Animated dot-field text rendering. Two identical dot grids scroll in
-          opposing directions — text emerges purely from motion contrast.
+          opposing directions, text emerges purely from motion contrast.
           Pause the animation and the text vanishes.
         </p>
         <div className="header__install">
